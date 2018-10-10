@@ -1,0 +1,3 @@
+rootProject.name = 'EmpManager'
+
+include ':app'
